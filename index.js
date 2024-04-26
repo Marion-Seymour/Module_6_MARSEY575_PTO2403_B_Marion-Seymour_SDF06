@@ -4,7 +4,7 @@ import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com
 
 // Firebase app settings
 const appSettings = {
-    databaseURL: "https://realtime-database-df319-default-rtdb.europe-west1.firebasedatabase.app/"
+    databaseURL: "https://realtime-database-d453e-default-rtdb.europe-west1.firebasedatabase.app/"
 };
 
 // Initialize Firebase app
